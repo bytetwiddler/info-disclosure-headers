@@ -1,0 +1,14 @@
+---
+sites:
+  - 'https://www.facebook.com/'
+  - 'https://www.amazon.com/'
+  - 'https://www.verimatrix.com/'
+  - 'https://www.verizon.com/'
+  - 'https://www.markmonitor.com/'
+  - 'https://www.yahoo.com/'
+methods:
+  - TRACE
+  - TRACK
+  - OPTIONS
+  - GET
+  - POST
